@@ -1,0 +1,48 @@
+/******************** FONT-FACE *********************/
+
+@font-face {
+	font-family: 'Bellota-BoldItalic';
+	src: url('../fonts/bellota/Bellota-BoldItalic.otf');
+}
+@font-face {
+	font-family: 'Bellota-LightItalic';
+	src: url('../fonts/bellota/Bellota-LightItalic.otf');
+}
+
+
+@font-face {
+	font-family: 'HennyPenny-Regular';
+	src: url('../fonts/henny-penny/HennyPenny-Regular.otf');
+}
+
+
+@font-face {
+	font-family: 'SF_Collegiate';
+	src: url('../fonts/SF-Collegiate/SF_Collegiate.ttf');
+}
+@font-face {
+	font-family: 'SF_Collegiate_Solid';
+	src: url('../fonts/SF-Collegiate/SF_Collegiate_Solid.ttf');
+}
+
+
+@font-face {
+	font-family: 'Vanilla';
+	src: url('../fonts/Vanilla/Vanilla.ttf');
+}
+
+
+@font-face {
+	font-family: 'ZnikomitNo24';
+	src: url('../fonts/ZnikomitNo/ZnikomitNo24.otf');
+}
+
+/**************************************************************/
+
+body {
+	font-family: cursive;
+}
+
+.login_header h1, .logo {
+	font-family: 'SF_Collegiate', cursive;
+}
